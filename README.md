@@ -9,5 +9,3 @@ Yeni üye, satış ve kampanya yönetimi yapılması isteniyor.
    <li>Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ediniz.</li>
    <li>Satışlarda kampanya entegrasyonunu simule ediniz.</li>
  </ul> 
-
-(https://github.com/hilalarslann/RasyotekProject/issues/1#issue-1517079544)
