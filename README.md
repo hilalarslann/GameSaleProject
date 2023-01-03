@@ -9,4 +9,3 @@ Yeni üye, satış ve kampanya yönetimi yapılması isteniyor.
    <li>Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ediniz.</li>
    <li>Satışlarda kampanya entegrasyonunu simule ediniz.</li>
  </ul> 
-![Registration-Form](https://user-images.githubusercontent.com/107270736/210324779-804fbd10-aef4-446d-86fa-10703e4d523d.png)
